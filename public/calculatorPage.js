@@ -1,4 +1,4 @@
-// cypress/support/calculatorPage.js
+// public/calculatorPage.js
 
 class CalculatorPage {
     // Visit the calculator application
