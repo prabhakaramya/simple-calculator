@@ -1,4 +1,4 @@
-import CalculatorPage from '../support/calculatorPage';
+import CalculatorPage from '../public/calculatorPage';
 
 // Describe block for Calculator Tests
 describe('Calculator Tests', () => {
